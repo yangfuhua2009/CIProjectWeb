@@ -1,0 +1,16 @@
+D:\develop\CI\Code\CIProjectWebDemo1\CIProjectWebDemo1\bin\CIProjectWebDemo1.dll.config
+D:\develop\CI\Code\CIProjectWebDemo1\CIProjectWebDemo1\bin\CIProjectWebDemo1.dll
+D:\develop\CI\Code\CIProjectWebDemo1\CIProjectWebDemo1\bin\CIProjectWebDemo1.pdb
+D:\develop\CI\Code\CIProjectWebDemo1\CIProjectWebDemo1\obj\Debug\CIProjectWebDemo1.dll
+D:\develop\CI\Code\CIProjectWebDemo1\CIProjectWebDemo1\obj\Debug\CIProjectWebDemo1.pdb
+D:\develop\GitHub\GitHubforTesting\CIProjectWebDemo1\CIProjectWebDemo1\bin\CIProjectWebDemo1.dll.config
+D:\develop\GitHub\GitHubforTesting\CIProjectWebDemo1\CIProjectWebDemo1\bin\CIProjectWebDemo1.dll
+D:\develop\GitHub\GitHubforTesting\CIProjectWebDemo1\CIProjectWebDemo1\bin\CIProjectWebDemo1.pdb
+D:\develop\GitHub\GitHubforTesting\CIProjectWebDemo1\CIProjectWebDemo1\obj\Debug\CIProjectWebDemo1.dll
+D:\develop\GitHub\GitHubforTesting\CIProjectWebDemo1\CIProjectWebDemo1\obj\Debug\CIProjectWebDemo1.pdb
+C:\Users\ah\Downloads\CIProjectWebDemo1-master\CIProjectWebDemo1-master\CIProjectWebDemo1\bin\CIProjectWebDemo1.dll.config
+C:\Users\ah\Downloads\CIProjectWebDemo1-master\CIProjectWebDemo1-master\CIProjectWebDemo1\bin\CIProjectWebDemo1.dll
+C:\Users\ah\Downloads\CIProjectWebDemo1-master\CIProjectWebDemo1-master\CIProjectWebDemo1\bin\CIProjectWebDemo1.pdb
+C:\Users\ah\Downloads\CIProjectWebDemo1-master\CIProjectWebDemo1-master\CIProjectWebDemo1\obj\Debug\CIProjectWebDemo1.csprojResolveAssemblyReference.cache
+C:\Users\ah\Downloads\CIProjectWebDemo1-master\CIProjectWebDemo1-master\CIProjectWebDemo1\obj\Debug\CIProjectWebDemo1.dll
+C:\Users\ah\Downloads\CIProjectWebDemo1-master\CIProjectWebDemo1-master\CIProjectWebDemo1\obj\Debug\CIProjectWebDemo1.pdb

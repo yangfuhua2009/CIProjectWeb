@@ -1,0 +1,5 @@
+D:\mtest\CIProjectWebDemo1-master\BuildArtifacts\CIProjectWebDemo1.UnitTests.dll
+D:\mtest\CIProjectWebDemo1-master\BuildArtifacts\CIProjectWebDemo1.UnitTests.pdb
+D:\mtest\CIProjectWebDemo1-master\CIProjectWebDemo1.UnitTests\obj\Release\CIProjectWebDemo1.UnitTests.csprojResolveAssemblyReference.cache
+D:\mtest\CIProjectWebDemo1-master\CIProjectWebDemo1.UnitTests\obj\Release\CIProjectWebDemo1.UnitTests.dll
+D:\mtest\CIProjectWebDemo1-master\CIProjectWebDemo1.UnitTests\obj\Release\CIProjectWebDemo1.UnitTests.pdb
